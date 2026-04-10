@@ -1,4 +1,5 @@
 # OneCo Technologies - Ignition
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/OneCo-Technologies-Ignition/.github/main/assets/logo/OneCo_logo_3D_vertikal.png" width="320" alt="OneCo Technologies Logo">
 </p>
@@ -9,7 +10,7 @@ We maintain reusable templates, standards, and best practices to keep our Perspe
 
 ### 🎯 Our Main Resource
 
-→ **[ignition-templates](https://github.com/OneCoTechnologies-Ignition/ignition-templates)**  
+→ **[ignition-templates](https://github.com/OneCo-Technologies-Ignition/ignition-templates)**  
 Company-wide template repository for:
 - Reusable Perspective views, widgets & popups
 - Standard UDTs (User Defined Types)
@@ -19,14 +20,14 @@ Company-wide template repository for:
 
 ### How to Get Started
 
-1. Go to the [ignition-templates](https://github.com/OneCoTechnologies-Ignition/ignition-templates) repo
-2. Click **"Use this template"** → **"Create a new repository"** when starting a new Ignition project
+1. Go to the [ignition-templates](https://github.com/OneCo-Technologies-Ignition/ignition-templates) repository
+2. Click **"Use this template"** to create a new project with our company standards
 3. Always work in feature branches and submit Pull Requests (never push directly to `main`)
 
 ### Useful Links
 
-- [ignition-templates Repository](https://github.com/OneCoTechnologies-Ignition/ignition-templates)
-- Internal Ignition Standards (in the `docs/` folder)
+- [ignition-templates Repository](https://github.com/OneCo-Technologies-Ignition/ignition-templates)
+- Internal Ignition Standards (see the `docs/` folder)
 - [Community Ignition Git Style Guide](https://github.com/ia-eknorr/ignition-git-style-guide)
 
 ### Questions or Need Help?
