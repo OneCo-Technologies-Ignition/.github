@@ -1,5 +1,5 @@
 # OneCo Technologies - Ignition
-![OneCo Technologies Logo](https://raw.githubusercontent.com/OneCoTechnologies-Ignition/.github/main/assets/logo/OneCo_logo_3D_vertikal.png)
+![OneCo Technologies Logo]([https://raw.githubusercontent.com/OneCoTechnologies-Ignition/.github/main/assets/logo/OneCo_logo_3D_vertikal.png](https://github.com/OneCo-Technologies-Ignition/.github/blob/2a0bb3ecbb95b633439f587e9f0e9a780163e268/assets/logo/OneCo_logo_3D_vertikal.png))
 
 Welcome to the official GitHub organization for **Ignition SCADA** development at OneCo Technologies.
 
